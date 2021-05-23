@@ -1,0 +1,4 @@
+node_modules
+keys/keys.dev.js
+.env
+.idea
